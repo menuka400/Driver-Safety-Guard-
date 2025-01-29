@@ -116,7 +116,8 @@ python Model_Run.py
 ## 📸 Sample Output
 | Scenario | Detection Preview |
 |----------|------------------|
-| Drowsy Driving | ![Drowsy](Media/images/drowsy.jpg) |
+| Drowsy Driving | ![Drowsy](Media/images![4](https://github.com/user-attachments/assets/88d3ede5-74a6-4ce3-86a8-f3b24c1ce75a)
+/drowsy.jpg) |
 | Head Drop | ![Drowsy](Media/images/drowsy.jpg) |
 | Mobile Usage | ![Mobile](Media/images/mobile.jpg) |
 | Smoking | ![Smoking](Media/images/smoking.jpg) |
