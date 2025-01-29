@@ -119,7 +119,7 @@ python Model_Run.py
 | Drowsy Driving | ![Drowsy](https://github.com/user-attachments/assets/88d3ede5-74a6-4ce3-86a8-f3b24c1ce75a)
 | Head Drop | ![Head Drop](https://github.com/user-attachments/assets/13d4f7e4-5995-4e66-9674-26bb0a2b0cd7)
 | Mobile Usage | ![Mobile](https://github.com/user-attachments/assets/ec869b25-45ab-4a5b-ae79-672cfa84ab75)
-| Smoking | ![Smoking](Me![3](https://github.com/user-attachments/assets/f329030e-3a7c-45a6-a4cf-4504b681e30f) |
+| Smoking | ![Smoking](https://github.com/user-attachments/assets/f329030e-3a7c-45a6-a4cf-4504b681e30f) |
 ---
 
 ## 📜 License
