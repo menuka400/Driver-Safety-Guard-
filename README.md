@@ -117,6 +117,7 @@ python Model_Run.py
 | Scenario | Detection Preview |
 |----------|------------------|
 | Drowsy Driving | ![Drowsy](Media/images/drowsy.jpg) |
+| Head Drop | ![Drowsy](Media/images/drowsy.jpg) |
 | Mobile Usage | ![Mobile](Media/images/mobile.jpg) |
 | Smoking | ![Smoking](Media/images/smoking.jpg) |
 
@@ -126,7 +127,6 @@ python Model_Run.py
 This project is open-source and licensed under **MIT License**.
 
 📌 **Project Presentation**: [View Full PDF](https://drive.google.com/file/d/1MdnVrYmAUnjPG4GHgdLDd13kZDKytUOF/view)  
-💬 **Contributors**: [Your Name]
 
 🚀 **Stay Focused, Stay Safe!** 🚗💡
 
