@@ -129,3 +129,4 @@ This project is open-source and licensed under **MIT License**.
 
 🚀 **Stay Focused, Stay Safe!** 🚗💡
 
+### ⭐ *Star this repository if you like our project!* ⭐
